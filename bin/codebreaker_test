@@ -1,9 +1,32 @@
 #!/bin/bash
 cd ..
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
 echo "///////////////////////////////////////////////////////////////////////////////////////////////////////"
+echo ""
 rspec --color --format doc
 echo ""
 echo "------------------------------------------------------"
 echo ""
 cucumber
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo "///////////////////////////////////////////////////////////////////////////////////////////////////////"
+echo ""
+echo ""
 cd /Work/codebreaker
