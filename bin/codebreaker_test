@@ -1,0 +1,8 @@
+#!/bin/bash
+cd ..
+rspec --color --format doc
+echo ""
+echo "------------------------------------------------------"
+echo ""
+cucumber
+cd /Work/codebreaker
